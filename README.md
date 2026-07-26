@@ -419,6 +419,7 @@ Isolated environments for running model-generated code.
 
 | Benchmark | Year | Measures | Links |
 |---|---|---|---|
+| **ClawBench** | 2026 | 283 live-website tasks; interchangeable harnesses share isolated browser runs, request interception, and five-layer traces | [project](https://claw-bench.com) · [paper](https://arxiv.org/abs/2604.08523) · [repo](https://github.com/reacher-z/ClawBench) |
 | **WebArena** | 2023 | Self-hosted realistic web env, execution-based eval | [paper](https://arxiv.org/abs/2307.13854) · [repo](https://github.com/web-arena-x/webarena) |
 | **VisualWebArena** | 2024 | 910 visually-grounded multimodal web tasks | [paper](https://arxiv.org/abs/2401.13649) · [repo](https://github.com/web-arena-x/visualwebarena) |
 | **OSWorld** | 2024 | 369 real computer tasks across Ubuntu/Win/macOS apps | [paper](https://arxiv.org/abs/2404.07972) · [site](https://os-world.github.io/) |
