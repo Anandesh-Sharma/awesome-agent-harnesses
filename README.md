@@ -222,6 +222,7 @@ flowchart TB
 | [LangChain4j](https://github.com/langchain4j/langchain4j) | ~9k | Java | Apache-2.0 | Declarative AiServices interfaces; tools, memory, RAG for Java |
 | [TaskWeaver](https://github.com/microsoft/TaskWeaver) | ~6k | Python | MIT | Code-first agent for data analytics; requests → executable code plans |
 | [AgentVerse](https://github.com/OpenBMB/AgentVerse) | ~4k | Python | Apache-2.0 | Cooperative task-solving + emergent-behavior simulation modes |
+| [Agent QA](https://github.com/vostride/agent-qa) | 812 | TS | FSL-1.1-ALv2 | Domain QA loop over natural-language web/mobile flows; persistent test memory, self-healing, structured evidence + MCP |
 
 **Low-code / visual builders:** [Dify](https://github.com/langgenius/dify) (~115k), [n8n](https://github.com/n8n-io/n8n) (~150k, fair-code), [Flowise](https://github.com/FlowiseAI/Flowise) (~40k), [Rivet](https://github.com/Ironclad/rivet) (~4k), [Inngest AgentKit](https://github.com/inngest/agent-kit), [Motia](https://github.com/MotiaDev/motia), [VoltAgent](https://github.com/VoltAgent/voltagent).
 
