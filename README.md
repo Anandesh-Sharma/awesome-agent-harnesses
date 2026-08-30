@@ -263,6 +263,7 @@ The scaffolding around code-writing agents — terminal CLIs, IDE agents, autono
 | [Codebuff](https://github.com/CodebuffAI/codebuff) | ~3k | TS | Apache-2.0 | Spawns specialized sub-agents for collaborative edits |
 | [RA.Aid](https://github.com/ai-christianson/RA.Aid) | ~2k | Python | Apache-2.0 | Three-stage LangGraph pipeline (research/plan/implement) |
 | [Codel](https://github.com/semanser/codel) | ~2k | Go/Py | AGPL-3.0 | Fully autonomous terminal + browser actions inside containers |
+| [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | ~638 | TS | Apache-2.0 | Local-first runtime with persistent sessions, MCP tools, pluggable sandboxes, approvals, audit, and replay |
 
 **Notable closed-source** (for reference): [Devin](https://devin.ai) (Cognition), [Cursor](https://cursor.com), [GitHub Copilot CLI](https://github.com/github/copilot-cli), [Amp](https://sourcegraph.com/amp) (Sourcegraph), [Factory Droid](https://github.com/Factory-AI/factory), [Warp](https://github.com/warpdotdev/Warp).
 
