@@ -218,6 +218,7 @@ flowchart TB
 | [BeeAI Framework](https://github.com/i-am-bee/beeai-framework) | ~3k | Py/TS | Apache-2.0 | Cross-framework runtime + ACP (IBM, Linux Foundation) |
 | [Langroid](https://github.com/langroid/langroid) | ~3k | Python | MIT | Message-passing multi-agent, explicit task loop, no LangChain dep (CMU/UW) |
 | [Griptape](https://github.com/griptape-ai/griptape) | ~2k | Python | Apache-2.0 | Structures (Agent/Pipeline/Workflow) + off-prompt "task memory" |
+| [LazyMind](https://github.com/LazyAGI/LazyMind) | ~700 | Go | Apache-2.0 | Skill-to-workflow runtime with observable steps, approval checkpoints, editable versioned artifacts, and retry/rewind |
 | [Spring AI](https://github.com/spring-projects/spring-ai) | ~8k | Java | Apache-2.0 | Spring-idiomatic Advisors/ChatClient, tools, RAG for the JVM |
 | [LangChain4j](https://github.com/langchain4j/langchain4j) | ~9k | Java | Apache-2.0 | Declarative AiServices interfaces; tools, memory, RAG for Java |
 | [TaskWeaver](https://github.com/microsoft/TaskWeaver) | ~6k | Python | MIT | Code-first agent for data analytics; requests → executable code plans |
